@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2 Score,Prediction Accuracy (%)
+Linear Regression,21.795,36.353,0.8446,40.17
+Random Forest,10.745,20.709,0.9496,68.88
+Gradient Boosting,10.796,18.933,0.9579,65.29
